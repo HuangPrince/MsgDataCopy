@@ -10,6 +10,7 @@
 #define IDC_BUTTON_NewInstance          1000
 #define IDC_BUTTON_WhleSend             1001
 #define IDC_EDIT_DelayTime              1002
+#define IDC_EDIT1                       1003
 #define edit_targetWindowText           1107
 #define edit_sendContent                1108
 #define btn_send                        1109
@@ -26,7 +27,7 @@
 #ifndef APSTUDIO_READONLY_SYMBOLS
 #define _APS_NEXT_RESOURCE_VALUE        130
 #define _APS_NEXT_COMMAND_VALUE         32771
-#define _APS_NEXT_CONTROL_VALUE         1003
+#define _APS_NEXT_CONTROL_VALUE         1004
 #define _APS_NEXT_SYMED_VALUE           101
 #endif
 #endif
